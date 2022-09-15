@@ -2,7 +2,16 @@
 
 My nse scripts and cheat sheet
 
-[NSE Reference](https://nmap.org/nsedoc/index.html)
+## Quick links
+
+- [NSE Reference](https://nmap.org/nsedoc/index.html)
+- [API](https://nmap.org/book/nse-api.html)
+- [Document](https://nmap.org/book/nse.html)
+- [Lib nmap](https://nmap.org/nsedoc/lib/nmap.html)
+- [Lib stdnse](https://nmap.org/nsedoc/lib/stdnse.html)
+- [Lib http](https://nmap.org/nsedoc/lib/http.html)
+- [Lib url](https://nmap.org/nsedoc/lib/url.html)
+- [Lib pcre](https://nmap.org/nsedoc/lib/pcre.html)
 
 ## Scripts
 
