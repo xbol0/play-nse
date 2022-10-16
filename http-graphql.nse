@@ -26,7 +26,7 @@ local USER_AGENT = [[
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0"
 ]]
 
-portrule = shortport.port_or_service({ 80, 443, 9000 }, { "http", "https" }, "tcp", "open")
+portrule = shortport.port_or_service({ 80, 443 }, { "http", "https" }, "tcp", "open")
 
 local function merge_table(...)
 	local all = {}
